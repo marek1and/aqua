@@ -1,0 +1,1719 @@
+Archive member included because of file (symbol)
+
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+                              ./dev/sound.o (__umulhisi3)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodqi4.o)
+                              ./utils/utils.o (__udivmodqi4)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+                              ./dev/sound.o (__udivmodsi4)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+                              ./dev/sound.o (__divmodsi4)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+                              /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o) (__negsi2)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/crtm32.o (exit)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+                              ./settings/outputs.o (__tablejump2__)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+                              ./settings/backlight.o (__do_copy_data)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+                              ./utils/timer.o (__do_clear_bss)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                              ./dev/adc.o (__subsf3)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3.o) (__addsf3x)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                              ./settings/outputs.o (__ltsf2)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(divsf3.o)
+                              ./dev/adc.o (__divsf3)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(divsf3.o) (__divsf3x)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                              ./dev/adc.o (__fixsfsi)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fixsfsi.o) (__fixunssfsi)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                              ./dev/adc.o (__floatunsisf)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(cmpsf2.o) (__fp_cmp)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_inf)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_nan)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscA)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscB)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_round.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3.o) (__fp_round)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_split3)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_zero)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(gesf2.o)
+                              ./settings/outputs.o (__gesf2)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                              ./dev/adc.o (__mulsf3)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(mulsf3.o) (__mulsf3x)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+                              ./settings/outputs.o (__unordsf2)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtostrf.o)
+                              ./main.o (dtostrf)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(itoa.o)
+                              ./main.o (itoa)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtoa_prf.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtostrf.o) (dtoa_prf)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(ftoa_engine.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtoa_prf.o) (__ftoa_engine)
+/usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(strrev.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(itoa.o) (strrev)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodhi4.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(itoa.o) (__udivmodhi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+ROM                 0x10              ./dev/ds18b20.o
+timerTask           0x2               ./utils/timer.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000400 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/crtm32.o
+LOAD ./utils/reboot.o
+LOAD ./utils/timer.o
+LOAD ./utils/utils.o
+LOAD ./settings/backlight.o
+LOAD ./settings/connection.o
+LOAD ./settings/outputs.o
+LOAD ./settings/settings.o
+LOAD ./settings/time-settings.o
+LOAD ./net/enc28j60.o
+LOAD ./net/network.o
+LOAD ./dev/adc.o
+LOAD ./dev/buttons.o
+LOAD ./dev/ds18b20.o
+LOAD ./dev/eeprom.o
+LOAD ./dev/hd44780.o
+LOAD ./dev/relay.o
+LOAD ./dev/sound.o
+LOAD ./dev/time.o
+LOAD ./dev/twi.o
+LOAD ./dev/usart.o
+LOAD ./control.o
+LOAD ./main.o
+LOAD ./proto.o
+LOAD ./remote-control.o
+LOAD ./usp-proto.o
+START GROUP
+LOAD /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a
+LOAD /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x47d4
+ *(.vectors)
+ .vectors       0x0000000000000000       0x54 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/crtm32.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.increaseOutputParam
+                0x0000000000000054       0x10 ./settings/outputs.o
+ .progmem.gcc_sw_table.controlOutput
+                0x0000000000000064       0x16 ./control.o
+ .progmem.gcc_sw_table.showOutputXScreen
+                0x000000000000007a       0x18 ./main.o
+ .progmem.gcc_sw_table.processProtoData
+                0x0000000000000092       0x20 ./remote-control.o
+ *(.progmem*)
+ .progmem.data  0x00000000000000b2       0xfa /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(ftoa_engine.o)
+                0x00000000000001ac                . = ALIGN (0x2)
+                0x00000000000001ac                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000000000001ac        0x0 linker stubs
+ *(.trampolines*)
+                0x00000000000001ac                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000001ac                __ctors_start = .
+ *(.ctors)
+                0x00000000000001ac                __ctors_end = .
+                0x00000000000001ac                __dtors_start = .
+ *(.dtors)
+                0x00000000000001ac                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000000000001ac        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/crtm32.o
+                0x00000000000001ac                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000000000001ac        0xc /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000001b8       0x16 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+                0x00000000000001b8                __do_copy_data
+ .init4         0x00000000000001ce       0x10 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+                0x00000000000001ce                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000001de        0x8 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x00000000000001e6        0x4 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/crtm32.o
+                0x00000000000001e6                __vector_12
+                0x00000000000001e6                __bad_interrupt
+                0x00000000000001e6                __vector_6
+                0x00000000000001e6                __vector_3
+                0x00000000000001e6                __vector_11
+                0x00000000000001e6                __vector_17
+                0x00000000000001e6                __vector_19
+                0x00000000000001e6                __vector_5
+                0x00000000000001e6                __vector_4
+                0x00000000000001e6                __vector_9
+                0x00000000000001e6                __vector_15
+                0x00000000000001e6                __vector_8
+                0x00000000000001e6                __vector_14
+                0x00000000000001e6                __vector_10
+                0x00000000000001e6                __vector_18
+                0x00000000000001e6                __vector_20
+ .text          0x00000000000001ea        0x0 ./utils/reboot.o
+ .text          0x00000000000001ea        0x0 ./utils/timer.o
+ .text          0x00000000000001ea        0x0 ./utils/utils.o
+ .text          0x00000000000001ea        0x0 ./settings/backlight.o
+ .text          0x00000000000001ea        0x0 ./settings/connection.o
+ .text          0x00000000000001ea        0x0 ./settings/outputs.o
+ .text          0x00000000000001ea        0x0 ./settings/settings.o
+ .text          0x00000000000001ea        0x0 ./settings/time-settings.o
+ .text          0x00000000000001ea        0x0 ./net/enc28j60.o
+ .text          0x00000000000001ea        0x0 ./net/network.o
+ .text          0x00000000000001ea        0x0 ./dev/adc.o
+ .text          0x00000000000001ea        0x0 ./dev/buttons.o
+ .text          0x00000000000001ea        0x0 ./dev/ds18b20.o
+ .text          0x00000000000001ea        0x0 ./dev/eeprom.o
+ .text          0x00000000000001ea        0x0 ./dev/hd44780.o
+ .text          0x00000000000001ea        0x0 ./dev/relay.o
+ .text          0x00000000000001ea        0x0 ./dev/sound.o
+ .text          0x00000000000001ea        0x0 ./dev/time.o
+ .text          0x00000000000001ea        0x0 ./dev/twi.o
+ .text          0x00000000000001ea        0x0 ./dev/usart.o
+ .text          0x00000000000001ea        0x0 ./control.o
+ .text          0x00000000000001ea        0x0 ./main.o
+ .text          0x00000000000001ea        0x0 ./proto.o
+ .text          0x00000000000001ea        0x0 ./remote-control.o
+ .text          0x00000000000001ea        0x0 ./usp-proto.o
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(divsf3.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(gesf2.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtostrf.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtoa_prf.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(ftoa_engine.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .text          0x00000000000001ea        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodhi4.o)
+                0x00000000000001ea                . = ALIGN (0x2)
+ *(.text.*)
+ .text.reboot   0x00000000000001ea       0x20 ./utils/reboot.o
+                0x00000000000001ea                reboot
+ .text.cancelTimerTask
+                0x000000000000020a       0x1e ./utils/timer.o
+                0x000000000000020a                cancelTimerTask
+ .text.scheduleTimerTask
+                0x0000000000000228       0x42 ./utils/timer.o
+                0x0000000000000228                scheduleTimerTask
+ .text.__vector_7
+                0x000000000000026a       0x86 ./utils/timer.o
+                0x000000000000026a                __vector_7
+ .text.intToBCD
+                0x00000000000002f0       0x12 ./utils/utils.o
+                0x00000000000002f0                intToBCD
+ .text.bcdToInt
+                0x0000000000000302       0x12 ./utils/utils.o
+                0x0000000000000302                bcdToInt
+ .text.setLCDBacklight
+                0x0000000000000314        0x6 ./settings/backlight.o
+                0x0000000000000314                setLCDBacklight
+ .text.getLCDBackLight
+                0x000000000000031a        0x6 ./settings/backlight.o
+                0x000000000000031a                getLCDBackLight
+ .text.increaseLCDBacklight
+                0x0000000000000320       0x14 ./settings/backlight.o
+                0x0000000000000320                increaseLCDBacklight
+ .text.decreaseLCDBacklight
+                0x0000000000000334       0x1e ./settings/backlight.o
+                0x0000000000000334                decreaseLCDBacklight
+ .text.saveLCDBacklighToMemory
+                0x0000000000000352        0xc ./settings/backlight.o
+                0x0000000000000352                saveLCDBacklighToMemory
+ .text.loadLCDBacklightFromMemory
+                0x000000000000035e        0xe ./settings/backlight.o
+                0x000000000000035e                loadLCDBacklightFromMemory
+ .text.clearConnectionSetings
+                0x000000000000036c       0x1e ./settings/connection.o
+                0x000000000000036c                clearConnectionSetings
+ .text.nextConnectionParam
+                0x000000000000038a       0x14 ./settings/connection.o
+                0x000000000000038a                nextConnectionParam
+ .text.prevConnectionParam
+                0x000000000000039e       0x14 ./settings/connection.o
+                0x000000000000039e                prevConnectionParam
+ .text.getConnectionParam
+                0x00000000000003b2        0x6 ./settings/connection.o
+                0x00000000000003b2                getConnectionParam
+ .text.getConnectionIP
+                0x00000000000003b8        0x6 ./settings/connection.o
+                0x00000000000003b8                getConnectionIP
+ .text.setConnectionIP
+                0x00000000000003be       0x16 ./settings/connection.o
+                0x00000000000003be                setConnectionIP
+ .text.getConnectionPort
+                0x00000000000003d4        0x6 ./settings/connection.o
+                0x00000000000003d4                getConnectionPort
+ .text.setConnectionPort
+                0x00000000000003da        0x6 ./settings/connection.o
+                0x00000000000003da                setConnectionPort
+ .text.increaseConnectionIPIdx
+                0x00000000000003e0       0x1e ./settings/connection.o
+                0x00000000000003e0                increaseConnectionIPIdx
+ .text.increaseConnectionParam
+                0x00000000000003fe       0x32 ./settings/connection.o
+                0x00000000000003fe                increaseConnectionParam
+ .text.decreaseConnectionParam
+                0x0000000000000430       0x1c ./settings/connection.o
+                0x0000000000000430                decreaseConnectionParam
+ .text.loadConnectionParamsFromMemory
+                0x000000000000044c       0x36 ./settings/connection.o
+                0x000000000000044c                loadConnectionParamsFromMemory
+ .text.initConnectionSettings
+                0x0000000000000482       0x10 ./settings/connection.o
+                0x0000000000000482                initConnectionSettings
+ .text.saveConnectionParamsToMemory
+                0x0000000000000492       0x36 ./settings/connection.o
+                0x0000000000000492                saveConnectionParamsToMemory
+ .text.initOutputsSettings
+                0x00000000000004c8        0x8 ./settings/outputs.o
+                0x00000000000004c8                initOutputsSettings
+ .text.clearOutputsSettings
+                0x00000000000004d0        0x6 ./settings/outputs.o
+                0x00000000000004d0                clearOutputsSettings
+ .text.increaseCurrentOutput
+                0x00000000000004d6       0x14 ./settings/outputs.o
+                0x00000000000004d6                increaseCurrentOutput
+ .text.decreaseCurrentOutput
+                0x00000000000004ea       0x14 ./settings/outputs.o
+                0x00000000000004ea                decreaseCurrentOutput
+ .text.getCurrentOutput
+                0x00000000000004fe        0x6 ./settings/outputs.o
+                0x00000000000004fe                getCurrentOutput
+ .text.setCurrentOutput
+                0x0000000000000504        0x6 ./settings/outputs.o
+                0x0000000000000504                setCurrentOutput
+ .text.getCurrentOutputMode
+                0x000000000000050a        0x6 ./settings/outputs.o
+                0x000000000000050a                getCurrentOutputMode
+ .text.setCurrentOutputMode
+                0x0000000000000510        0x6 ./settings/outputs.o
+                0x0000000000000510                setCurrentOutputMode
+ .text.getCurrentOutputTime
+                0x0000000000000516        0x6 ./settings/outputs.o
+                0x0000000000000516                getCurrentOutputTime
+ .text.setCurrentOutputTime
+                0x000000000000051c       0x16 ./settings/outputs.o
+                0x000000000000051c                setCurrentOutputTime
+ .text.getCurrentOutputTemperature
+                0x0000000000000532       0x12 ./settings/outputs.o
+                0x0000000000000532                getCurrentOutputTemperature
+ .text.setCurrentOutputTemperature
+                0x0000000000000544       0x12 ./settings/outputs.o
+                0x0000000000000544                setCurrentOutputTemperature
+ .text.getCurrentOutputHysteresis
+                0x0000000000000556       0x12 ./settings/outputs.o
+                0x0000000000000556                getCurrentOutputHysteresis
+ .text.setCurrentOutputHysteresis
+                0x0000000000000568       0x12 ./settings/outputs.o
+                0x0000000000000568                setCurrentOutputHysteresis
+ .text.getCurrentOutputLuminance
+                0x000000000000057a        0xa ./settings/outputs.o
+                0x000000000000057a                getCurrentOutputLuminance
+ .text.setCurrentOutputLuminance
+                0x0000000000000584        0xa ./settings/outputs.o
+                0x0000000000000584                setCurrentOutputLuminance
+ .text.initOutputXSettings
+                0x000000000000058e      0x1dc ./settings/outputs.o
+                0x000000000000058e                initOutputXSettings
+ .text.clearOutputXSettings
+                0x000000000000076a       0x3e ./settings/outputs.o
+                0x000000000000076a                clearOutputXSettings
+ .text.saveOutputSettings
+                0x00000000000007a8       0xb2 ./settings/outputs.o
+                0x00000000000007a8                saveOutputSettings
+ .text.increaseOutputParamIdx
+                0x000000000000085a       0x46 ./settings/outputs.o
+                0x000000000000085a                increaseOutputParamIdx
+ .text.increaseOutputParam
+                0x00000000000008a0      0x144 ./settings/outputs.o
+                0x00000000000008a0                increaseOutputParam
+ .text.loadDefaultLCDBacklightValue
+                0x00000000000009e4       0x12 ./settings/settings.o
+                0x00000000000009e4                loadDefaultLCDBacklightValue
+ .text.loadDefaultOutputValues
+                0x00000000000009f6       0x96 ./settings/settings.o
+                0x00000000000009f6                loadDefaultOutputValues
+ .text.loadDefaultOutputsValues
+                0x0000000000000a8c       0x8a ./settings/settings.o
+                0x0000000000000a8c                loadDefaultOutputsValues
+ .text.loadDefaultConnectionSettings
+                0x0000000000000b16       0x52 ./settings/settings.o
+                0x0000000000000b16                loadDefaultConnectionSettings
+ .text.loadDefaultSettings
+                0x0000000000000b68        0xc ./settings/settings.o
+                0x0000000000000b68                loadDefaultSettings
+ .text.getTmpTime
+                0x0000000000000b74        0x6 ./settings/time-settings.o
+                0x0000000000000b74                getTmpTime
+ .text.getTmpTimeIndex
+                0x0000000000000b7a        0x6 ./settings/time-settings.o
+                0x0000000000000b7a                getTmpTimeIndex
+ .text.initTimeSettings
+                0x0000000000000b80       0x2c ./settings/time-settings.o
+                0x0000000000000b80                initTimeSettings
+ .text.saveTimeSettings
+                0x0000000000000bac       0x1e ./settings/time-settings.o
+                0x0000000000000bac                saveTimeSettings
+ .text.clearTimeSettings
+                0x0000000000000bca       0x1a ./settings/time-settings.o
+                0x0000000000000bca                clearTimeSettings
+ .text.nextTimeParam
+                0x0000000000000be4       0x16 ./settings/time-settings.o
+                0x0000000000000be4                nextTimeParam
+ .text.increaseTimeParam
+                0x0000000000000bfa       0xb8 ./settings/time-settings.o
+                0x0000000000000bfa                increaseTimeParam
+ .text.enc28j60ReadOp
+                0x0000000000000cb2       0x26 ./net/enc28j60.o
+                0x0000000000000cb2                enc28j60ReadOp
+ .text.enc28j60WriteOp
+                0x0000000000000cd8       0x16 ./net/enc28j60.o
+                0x0000000000000cd8                enc28j60WriteOp
+ .text.enc28j60ReadBuffer
+                0x0000000000000cee       0x26 ./net/enc28j60.o
+                0x0000000000000cee                enc28j60ReadBuffer
+ .text.enc28j60WriteBuffer
+                0x0000000000000d14       0x24 ./net/enc28j60.o
+                0x0000000000000d14                enc28j60WriteBuffer
+ .text.enc28j60SetBank
+                0x0000000000000d38       0x44 ./net/enc28j60.o
+                0x0000000000000d38                enc28j60SetBank
+ .text.enc28j60Read
+                0x0000000000000d7c       0x20 ./net/enc28j60.o
+                0x0000000000000d7c                enc28j60Read
+ .text.enc28j60Write
+                0x0000000000000d9c       0x26 ./net/enc28j60.o
+                0x0000000000000d9c                enc28j60Write
+ .text.enc28j60PhyRead
+                0x0000000000000dc2       0x3a ./net/enc28j60.o
+                0x0000000000000dc2                enc28j60PhyRead
+ .text.enc28j60PhyWrite
+                0x0000000000000dfc       0x3e ./net/enc28j60.o
+                0x0000000000000dfc                enc28j60PhyWrite
+ .text.enc28j60SoftReset
+                0x0000000000000e3a       0x22 ./net/enc28j60.o
+                0x0000000000000e3a                enc28j60SoftReset
+ .text.enc28j60Init
+                0x0000000000000e5c      0x132 ./net/enc28j60.o
+                0x0000000000000e5c                enc28j60Init
+ .text.enc28j60PacketSend
+                0x0000000000000f8e       0x76 ./net/enc28j60.o
+                0x0000000000000f8e                enc28j60PacketSend
+ .text.enc28j60PacketReceive
+                0x0000000000001004       0xbe ./net/enc28j60.o
+                0x0000000000001004                enc28j60PacketReceive
+ .text.enc28j60clkout
+                0x00000000000010c2        0xa ./net/enc28j60.o
+                0x00000000000010c2                enc28j60clkout
+ .text.networkInit
+                0x00000000000010cc       0x62 ./net/network.o
+                0x00000000000010cc                networkInit
+ .text.getIPAddress
+                0x000000000000112e        0x6 ./net/network.o
+                0x000000000000112e                getIPAddress
+ .text.setIPAddress
+                0x0000000000001134       0x16 ./net/network.o
+                0x0000000000001134                setIPAddress
+ .text.getPort  0x000000000000114a        0xa ./net/network.o
+                0x000000000000114a                getPort
+ .text.setPort  0x0000000000001154        0xa ./net/network.o
+                0x0000000000001154                setPort
+ .text.receivePacket
+                0x000000000000115e        0x4 ./net/network.o
+                0x000000000000115e                receivePacket
+ .text.checksum
+                0x0000000000001162       0xbc ./net/network.o
+                0x0000000000001162                checksum
+ .text.getEthernetDataProtocol
+                0x000000000000121e       0x30 ./net/network.o
+                0x000000000000121e                getEthernetDataProtocol
+ .text.getIPDataProtocol
+                0x000000000000124e       0x20 ./net/network.o
+                0x000000000000124e                getIPDataProtocol
+ .text.checkMyIP
+                0x000000000000126e       0x2c ./net/network.o
+                0x000000000000126e                checkMyIP
+ .text.isMyIP   0x000000000000129a        0x6 ./net/network.o
+                0x000000000000129a                isMyIP
+ .text.isMyArpIP
+                0x00000000000012a0        0x6 ./net/network.o
+                0x00000000000012a0                isMyArpIP
+ .text.clearBuffer
+                0x00000000000012a6       0x16 ./net/network.o
+                0x00000000000012a6                clearBuffer
+ .text.fillIpChecksum
+                0x00000000000012bc       0x20 ./net/network.o
+                0x00000000000012bc                fillIpChecksum
+ .text.doArpAnswer
+                0x00000000000012dc       0x6c ./net/network.o
+                0x00000000000012dc                doArpAnswer
+ .text.doPingReply
+                0x0000000000001348       0x78 ./net/network.o
+                0x0000000000001348                doPingReply
+ .text.prepareEthernetHeader
+                0x00000000000013c0       0x32 ./net/network.o
+                0x00000000000013c0                prepareEthernetHeader
+ .text.prepareIPHeader
+                0x00000000000013f2       0x4a ./net/network.o
+                0x00000000000013f2                prepareIPHeader
+ .text.prepareTCPHeader
+                0x000000000000143c       0x24 ./net/network.o
+                0x000000000000143c                prepareTCPHeader
+ .text.prepareUDPHeader
+                0x0000000000001460       0x14 ./net/network.o
+                0x0000000000001460                prepareUDPHeader
+ .text.sendIPPacket
+                0x0000000000001474       0xd4 ./net/network.o
+                0x0000000000001474                sendIPPacket
+ .text.sendUDPPacket
+                0x0000000000001548       0x84 ./net/network.o
+                0x0000000000001548                sendUDPPacket
+ .text.replyUDPPacket
+                0x00000000000015cc       0x34 ./net/network.o
+                0x00000000000015cc                replyUDPPacket
+ .text.sendTCPPacket
+                0x0000000000001600       0x72 ./net/network.o
+                0x0000000000001600                sendTCPPacket
+ .text.isADCEnabled
+                0x0000000000001672        0x6 ./dev/adc.o
+                0x0000000000001672                isADCEnabled
+ .text.setADCEnabled
+                0x0000000000001678       0x10 ./dev/adc.o
+                0x0000000000001678                setADCEnabled
+ .text.adcInit  0x0000000000001688       0x20 ./dev/adc.o
+                0x0000000000001688                adcInit
+ .text.adcConvert
+                0x00000000000016a8       0x24 ./dev/adc.o
+                0x00000000000016a8                adcConvert
+ .text.adcRead  0x00000000000016cc       0x68 ./dev/adc.o
+                0x00000000000016cc                adcRead
+ .text.getIlluminances
+                0x0000000000001734        0x6 ./dev/adc.o
+                0x0000000000001734                getIlluminances
+ .text.__vector_16
+                0x000000000000173a       0x7a ./dev/adc.o
+                0x000000000000173a                __vector_16
+ .text.buttonsInit
+                0x00000000000017b4        0xa ./dev/buttons.o
+                0x00000000000017b4                buttonsInit
+ .text.readButton
+                0x00000000000017be       0x58 ./dev/buttons.o
+                0x00000000000017be                readButton
+ .text.getTemperatures
+                0x0000000000001816        0x6 ./dev/ds18b20.o
+                0x0000000000001816                getTemperatures
+ .text.OneWireStrong
+                0x000000000000181c        0xe ./dev/ds18b20.o
+                0x000000000000181c                OneWireStrong
+ .text.OneWireReset
+                0x000000000000182a       0x4c ./dev/ds18b20.o
+                0x000000000000182a                OneWireReset
+ .text.OneWireWriteByte
+                0x0000000000001876       0x3e ./dev/ds18b20.o
+                0x0000000000001876                OneWireWriteByte
+ .text.ds18b20_ConvertT
+                0x00000000000018b4       0x18 ./dev/ds18b20.o
+                0x00000000000018b4                ds18b20_ConvertT
+ .text.ds18b20_SetResolution
+                0x00000000000018cc       0xd0 ./dev/ds18b20.o
+                0x00000000000018cc                ds18b20_SetResolution
+ .text.OneWireReadByte
+                0x000000000000199c       0x32 ./dev/ds18b20.o
+                0x000000000000199c                OneWireReadByte
+ .text.ds18b20_Read
+                0x00000000000019ce       0xa0 ./dev/ds18b20.o
+                0x00000000000019ce                ds18b20_Read
+ .text.readTemperatures
+                0x0000000000001a6e       0x24 ./dev/ds18b20.o
+                0x0000000000001a6e                readTemperatures
+ .text.OneWireReadBit
+                0x0000000000001a92       0x2c ./dev/ds18b20.o
+                0x0000000000001a92                OneWireReadBit
+ .text.OneWireWriteBit
+                0x0000000000001abe       0x28 ./dev/ds18b20.o
+                0x0000000000001abe                OneWireWriteBit
+ .text.OneWireSearchRom
+                0x0000000000001ae6      0x134 ./dev/ds18b20.o
+                0x0000000000001ae6                OneWireSearchRom
+ .text.OneWireInit
+                0x0000000000001c1a        0xe ./dev/ds18b20.o
+                0x0000000000001c1a                OneWireInit
+ .text.readDataFromMemory
+                0x0000000000001c28       0x4e ./dev/eeprom.o
+                0x0000000000001c28                readDataFromMemory
+ .text.readDataBlockFromMemory
+                0x0000000000001c76       0xa6 ./dev/eeprom.o
+                0x0000000000001c76                readDataBlockFromMemory
+ .text.writeDataToMemory
+                0x0000000000001d1c       0x40 ./dev/eeprom.o
+                0x0000000000001d1c                writeDataToMemory
+ .text.writeDataBlockToMemory
+                0x0000000000001d5c       0x66 ./dev/eeprom.o
+                0x0000000000001d5c                writeDataBlockToMemory
+ .text.clearEEPROM
+                0x0000000000001dc2       0x32 ./dev/eeprom.o
+                0x0000000000001dc2                clearEEPROM
+ .text._LCD_OutNibble
+                0x0000000000001df4       0x2a ./dev/hd44780.o
+                0x0000000000001df4                _LCD_OutNibble
+ .text._LCD_InNibble
+                0x0000000000001e1e       0x12 ./dev/hd44780.o
+                0x0000000000001e1e                _LCD_InNibble
+ .text._LCD_Read
+                0x0000000000001e30       0x2e ./dev/hd44780.o
+                0x0000000000001e30                _LCD_Read
+ .text.LCD_ReadStatus
+                0x0000000000001e5e        0x6 ./dev/hd44780.o
+                0x0000000000001e5e                LCD_ReadStatus
+ .text._LCD_Write
+                0x0000000000001e64       0x30 ./dev/hd44780.o
+                0x0000000000001e64                _LCD_Write
+ .text.LCD_WriteCommand
+                0x0000000000001e94        0x6 ./dev/hd44780.o
+                0x0000000000001e94                LCD_WriteCommand
+ .text.LCD_WriteData
+                0x0000000000001e9a        0x6 ./dev/hd44780.o
+                0x0000000000001e9a                LCD_WriteData
+ .text.LCD_ReadData
+                0x0000000000001ea0        0x6 ./dev/hd44780.o
+                0x0000000000001ea0                LCD_ReadData
+ .text.LCD_WriteText
+                0x0000000000001ea6       0x18 ./dev/hd44780.o
+                0x0000000000001ea6                LCD_WriteText
+ .text.LCD_GoTo
+                0x0000000000001ebe        0xe ./dev/hd44780.o
+                0x0000000000001ebe                LCD_GoTo
+ .text.LCD_Clear
+                0x0000000000001ecc       0x14 ./dev/hd44780.o
+                0x0000000000001ecc                LCD_Clear
+ .text.LCD_Home
+                0x0000000000001ee0       0x14 ./dev/hd44780.o
+                0x0000000000001ee0                LCD_Home
+ .text.LCD_SetBacklight
+                0x0000000000001ef4        0x4 ./dev/hd44780.o
+                0x0000000000001ef4                LCD_SetBacklight
+ .text.LCD_ProgrammChar
+                0x0000000000001ef8       0x4c ./dev/hd44780.o
+                0x0000000000001ef8                LCD_ProgrammChar
+ .text.LCD_LoadCustomChars
+                0x0000000000001f44       0x64 ./dev/hd44780.o
+                0x0000000000001f44                LCD_LoadCustomChars
+ .text.LCD_Initalize
+                0x0000000000001fa8       0x84 ./dev/hd44780.o
+                0x0000000000001fa8                LCD_Initalize
+ .text.readRelays
+                0x000000000000202c       0x2a ./dev/relay.o
+                0x000000000000202c                readRelays
+ .text.setPCF8574
+                0x0000000000002056       0x1a ./dev/relay.o
+                0x0000000000002056                setPCF8574
+ .text.setRelay
+                0x0000000000002070       0x3e ./dev/relay.o
+                0x0000000000002070                setRelay
+ .text.negateRelay
+                0x00000000000020ae       0x1c ./dev/relay.o
+                0x00000000000020ae                negateRelay
+ .text.setAllRelays
+                0x00000000000020ca        0x6 ./dev/relay.o
+                0x00000000000020ca                setAllRelays
+ .text.clearAllRelays
+                0x00000000000020d0        0x6 ./dev/relay.o
+                0x00000000000020d0                clearAllRelays
+ .text.soundInit
+                0x00000000000020d6       0x14 ./dev/sound.o
+                0x00000000000020d6                soundInit
+ .text.setMelody
+                0x00000000000020ea        0x6 ./dev/sound.o
+                0x00000000000020ea                setMelody
+ .text.setPlaying
+                0x00000000000020f0        0x6 ./dev/sound.o
+                0x00000000000020f0                setPlaying
+ .text.setRepeatCount
+                0x00000000000020f6        0x6 ./dev/sound.o
+                0x00000000000020f6                setRepeatCount
+ .text.isPlaying
+                0x00000000000020fc        0x6 ./dev/sound.o
+                0x00000000000020fc                isPlaying
+ .text.beep     0x0000000000002102       0x7a ./dev/sound.o
+                0x0000000000002102                beep
+ .text.playNotes
+                0x000000000000217c       0x3e ./dev/sound.o
+                0x000000000000217c                playNotes
+ .text.stopPlay
+                0x00000000000021ba       0x12 ./dev/sound.o
+                0x00000000000021ba                stopPlay
+ .text.play     0x00000000000021cc       0x44 ./dev/sound.o
+                0x00000000000021cc                play
+ .text.clockInit
+                0x0000000000002210       0x20 ./dev/time.o
+                0x0000000000002210                clockInit
+ .text.readTime
+                0x0000000000002230       0xb8 ./dev/time.o
+                0x0000000000002230                readTime
+ .text.writeTime
+                0x00000000000022e8       0x52 ./dev/time.o
+                0x00000000000022e8                writeTime
+ .text.writeDate
+                0x000000000000233a       0x52 ./dev/time.o
+                0x000000000000233a                writeDate
+ .text.getTime  0x000000000000238c        0x6 ./dev/time.o
+                0x000000000000238c                getTime
+ .text.getHour  0x0000000000002392       0x12 ./dev/time.o
+                0x0000000000002392                getHour
+ .text.getMinute
+                0x00000000000023a4       0x12 ./dev/time.o
+                0x00000000000023a4                getMinute
+ .text.getSeconds
+                0x00000000000023b6       0x12 ./dev/time.o
+                0x00000000000023b6                getSeconds
+ .text.getDay   0x00000000000023c8       0x12 ./dev/time.o
+                0x00000000000023c8                getDay
+ .text.getMonth
+                0x00000000000023da       0x12 ./dev/time.o
+                0x00000000000023da                getMonth
+ .text.getYear  0x00000000000023ec        0xc ./dev/time.o
+                0x00000000000023ec                getYear
+ .text.twistart
+                0x00000000000023f8       0x10 ./dev/twi.o
+                0x00000000000023f8                twistart
+ .text.twistop  0x0000000000002408        0xc ./dev/twi.o
+                0x0000000000002408                twistop
+ .text.twiwrite
+                0x0000000000002414        0xe ./dev/twi.o
+                0x0000000000002414                twiwrite
+ .text.twiread  0x0000000000002422       0x16 ./dev/twi.o
+                0x0000000000002422                twiread
+ .text.USART_init
+                0x0000000000002438       0x10 ./dev/usart.o
+                0x0000000000002438                USART_init
+ .text.USART_transmit
+                0x0000000000002448        0x8 ./dev/usart.o
+                0x0000000000002448                USART_transmit
+ .text.USART_receiveByte
+                0x0000000000002450        0x8 ./dev/usart.o
+                0x0000000000002450                USART_receiveByte
+ .text.USART_transmitBytes
+                0x0000000000002458       0x3a ./dev/usart.o
+                0x0000000000002458                USART_transmitBytes
+ .text.readOutputControlParametersFromMemory
+                0x0000000000002492      0x136 ./control.o
+                0x0000000000002492                readOutputControlParametersFromMemory
+ .text.loadOutputStatesFromMemory
+                0x00000000000025c8       0x20 ./control.o
+                0x00000000000025c8                loadOutputStatesFromMemory
+ .text.writeOutputStatesToMemory
+                0x00000000000025e8       0x20 ./control.o
+                0x00000000000025e8                writeOutputStatesToMemory
+ .text.loadControlParametersFromMemory
+                0x0000000000002608       0x24 ./control.o
+                0x0000000000002608                loadControlParametersFromMemory
+ .text.getOutputRelay
+                0x000000000000262c        0x4 ./control.o
+                0x000000000000262c                getOutputRelay
+ .text.setOutput
+                0x0000000000002630       0x3c ./control.o
+                0x0000000000002630                setOutput
+ .text.setOutputs
+                0x000000000000266c       0x22 ./control.o
+                0x000000000000266c                setOutputs
+ .text.getStates
+                0x000000000000268e        0x8 ./control.o
+                0x000000000000268e                getStates
+ .text.getState
+                0x0000000000002696       0x1a ./control.o
+                0x0000000000002696                getState
+ .text.negateOutput
+                0x00000000000026b0       0x22 ./control.o
+                0x00000000000026b0                negateOutput
+ .text.controlOutput
+                0x00000000000026d2      0x1e2 ./control.o
+                0x00000000000026d2                controlOutput
+ .text.controlOutputs
+                0x00000000000028b4       0x3c ./control.o
+                0x00000000000028b4                controlOutputs
+ .text.setReadTemperaturesFlag
+                0x00000000000028f0        0xe ./main.o
+                0x00000000000028f0                setReadTemperaturesFlag
+ .text.goToMainScreen
+                0x00000000000028fe       0x1e ./main.o
+                0x00000000000028fe                goToMainScreen
+ .text.release  0x000000000000291c        0x4 ./main.o
+                0x000000000000291c                release
+ .text.readMeasurements
+                0x0000000000002920       0x52 ./main.o
+                0x0000000000002920                readMeasurements
+ .text.setScreen
+                0x0000000000002972       0x16 ./main.o
+                0x0000000000002972                setScreen
+ .text.prevScreen
+                0x0000000000002988       0x14 ./main.o
+                0x0000000000002988                prevScreen
+ .text.nextScreen
+                0x000000000000299c       0x14 ./main.o
+                0x000000000000299c                nextScreen
+ .text.press    0x00000000000029b0      0x3e2 ./main.o
+                0x00000000000029b0                press
+ .text.showTemperatureOnLCD
+                0x0000000000002d92       0x58 ./main.o
+                0x0000000000002d92                showTemperatureOnLCD
+ .text.showIlluminanceOnLCD
+                0x0000000000002dea       0x60 ./main.o
+                0x0000000000002dea                showIlluminanceOnLCD
+ .text.showTimeOnLCD
+                0x0000000000002e4a       0x96 ./main.o
+                0x0000000000002e4a                showTimeOnLCD
+ .text.showMainScreen
+                0x0000000000002ee0       0x5a ./main.o
+                0x0000000000002ee0                showMainScreen
+ .text.showDatetimeSettingsScreen
+                0x0000000000002f3a       0x14 ./main.o
+                0x0000000000002f3a                showDatetimeSettingsScreen
+ .text.showDatetimeScreen
+                0x0000000000002f4e       0xd6 ./main.o
+                0x0000000000002f4e                showDatetimeScreen
+ .text.showOutputsSettingsScreen
+                0x0000000000003024       0x14 ./main.o
+                0x0000000000003024                showOutputsSettingsScreen
+ .text.showOutputsScreen
+                0x0000000000003038       0x42 ./main.o
+                0x0000000000003038                showOutputsScreen
+ .text.showOutputXScreen
+                0x000000000000307a      0x1fe ./main.o
+                0x000000000000307a                showOutputXScreen
+ .text.drawProgressBar
+                0x0000000000003278       0x7a ./main.o
+                0x0000000000003278                drawProgressBar
+ .text.showLCDBacklightSettingsScreen
+                0x00000000000032f2       0x14 ./main.o
+                0x00000000000032f2                showLCDBacklightSettingsScreen
+ .text.showLCDBacklightScreen
+                0x0000000000003306        0xe ./main.o
+                0x0000000000003306                showLCDBacklightScreen
+ .text.getStateChar
+                0x0000000000003314       0x18 ./main.o
+                0x0000000000003314                getStateChar
+ .text.showConnectionSettingsScreen
+                0x000000000000332c       0x14 ./main.o
+                0x000000000000332c                showConnectionSettingsScreen
+ .text.showConnectionParamSettingsScreen
+                0x0000000000003340       0x30 ./main.o
+                0x0000000000003340                showConnectionParamSettingsScreen
+ .text.showConnectionParamScreen
+                0x0000000000003370       0xc0 ./main.o
+                0x0000000000003370                showConnectionParamScreen
+ .text.showDefaultSettingsScreen
+                0x0000000000003430       0x24 ./main.o
+                0x0000000000003430                showDefaultSettingsScreen
+ .text.showDefaultSettingsConfirmScreen
+                0x0000000000003454       0x24 ./main.o
+                0x0000000000003454                showDefaultSettingsConfirmScreen
+ .text.showOutputControlScreen
+                0x0000000000003478       0x66 ./main.o
+                0x0000000000003478                showOutputControlScreen
+ .text.showTemperatureIlluminanceScreen
+                0x00000000000034de       0x68 ./main.o
+                0x00000000000034de                showTemperatureIlluminanceScreen
+ .text.playMelody
+                0x0000000000003546       0x24 ./main.o
+                0x0000000000003546                playMelody
+ .text.loadConnectionParams
+                0x000000000000356a       0x3c ./main.o
+                0x000000000000356a                loadConnectionParams
+ .text.loadParams
+                0x00000000000035a6        0xc ./main.o
+                0x00000000000035a6                loadParams
+ .text.init     0x00000000000035b2       0x42 ./main.o
+                0x00000000000035b2                init
+ .text.startup.main
+                0x00000000000035f4      0x130 ./main.o
+                0x00000000000035f4                main
+ .text.__vector_1
+                0x0000000000003724       0x48 ./main.o
+                0x0000000000003724                __vector_1
+ .text.__vector_2
+                0x000000000000376c       0xe2 ./main.o
+                0x000000000000376c                __vector_2
+ .text.__vector_13
+                0x000000000000384e       0x4a ./main.o
+                0x000000000000384e                __vector_13
+ .text.getProtoHeader
+                0x0000000000003898        0x2 ./proto.o
+                0x0000000000003898                getProtoHeader
+ .text.getProtoHeaderLength
+                0x000000000000389a        0x4 ./proto.o
+                0x000000000000389a                getProtoHeaderLength
+ .text.getProtoOutput
+                0x000000000000389e        0xc ./proto.o
+                0x000000000000389e                getProtoOutput
+ .text.getProtoMode
+                0x00000000000038aa        0xa ./proto.o
+                0x00000000000038aa                getProtoMode
+ .text.getProtoFunction
+                0x00000000000038b4        0x8 ./proto.o
+                0x00000000000038b4                getProtoFunction
+ .text.getProtoData
+                0x00000000000038bc        0x4 ./proto.o
+                0x00000000000038bc                getProtoData
+ .text.getProtoDataLength
+                0x00000000000038c0        0x4 ./proto.o
+                0x00000000000038c0                getProtoDataLength
+ .text.processProtoData
+                0x00000000000038c4      0x3f6 ./remote-control.o
+                0x00000000000038c4                processProtoData
+ .text.clearUSBBuffer
+                0x0000000000003cba       0x14 ./usp-proto.o
+                0x0000000000003cba                clearUSBBuffer
+ .text.sendBufferOverflow
+                0x0000000000003cce       0x12 ./usp-proto.o
+                0x0000000000003cce                sendBufferOverflow
+ .text.processUSBByte
+                0x0000000000003ce0       0x76 ./usp-proto.o
+                0x0000000000003ce0                processUSBByte
+ .text.libgcc.mul
+                0x0000000000003d56       0x1e /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+                0x0000000000003d56                __umulhisi3
+ .text.libgcc.div
+                0x0000000000003d74        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000000000003d74        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000003d74        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000003d74        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000003d74        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000003d74        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x0000000000003d74        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.div
+                0x0000000000003d74       0x18 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodqi4.o)
+                0x0000000000003d74                __udivmodqi4
+ .text.libgcc   0x0000000000003d8c        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x0000000000003d8c        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x0000000000003d8c        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x0000000000003d8c        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fixed
+                0x0000000000003d8c        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x0000000000003d8c        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x0000000000003d8c       0x44 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+                0x0000000000003d8c                __udivmodsi4
+ .text.libgcc   0x0000000000003dd0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000003dd0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000003dd0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000003dd0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000003dd0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000003dd0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x0000000000003dd0       0x2e /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+                0x0000000000003dd0                __divmodsi4
+ .text.libgcc   0x0000000000003dfe        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000003dfe        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000003dfe        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000003dfe        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000003dfe        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000003dfe        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.div
+                0x0000000000003dfe       0x10 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+                0x0000000000003dfe                __negsi2
+ .text.libgcc   0x0000000000003e0e        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x0000000000003e0e        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x0000000000003e0e        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x0000000000003e0e        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x0000000000003e0e        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x0000000000003e0e        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000003e0e        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000003e0e        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000003e0e        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000003e0e        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000003e0e        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000003e0e        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000003e0e        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x0000000000003e0e        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc   0x0000000000003e0e        0xc /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+                0x0000000000003e0e                __tablejump2__
+                0x0000000000003e12                __tablejump__
+ .text.libgcc.prologue
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fixed
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000003e1a        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text.avr-libc.fplib
+                0x0000000000003e1a        0xa /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                0x0000000000003e1a                __subsf3
+                0x0000000000003e1c                __addsf3
+ .text.avr-libc.fplib
+                0x0000000000003e24       0xc0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+                0x0000000000003e3e                __addsf3x
+ .text.avr-libc.fplib
+                0x0000000000003ee4        0x8 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                0x0000000000003ee4                __lesf2
+                0x0000000000003ee4                __nesf2
+                0x0000000000003ee4                __eqsf2
+                0x0000000000003ee4                __cmpsf2
+                0x0000000000003ee4                __ltsf2
+ .text.avr-libc.fplib
+                0x0000000000003eec        0x4 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(divsf3.o)
+                0x0000000000003eec                __divsf3
+ .text.avr-libc.fplib
+                0x0000000000003ef0       0xcc /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                0x0000000000003f06                __divsf3x
+                0x0000000000003f0a                __divsf3_pse
+ .text.avr-libc.fplib
+                0x0000000000003fbc        0xa /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                0x0000000000003fbc                __fixsfsi
+ .text.avr-libc.fplib
+                0x0000000000003fc6       0x58 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                0x0000000000003fc6                __fixunssfsi
+ .text.avr-libc.fplib
+                0x000000000000401e       0x7a /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                0x000000000000401e                __floatunsisf
+                0x0000000000004022                __floatsisf
+ .text.avr-libc.fplib
+                0x0000000000004098       0x48 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                0x0000000000004098                __fp_cmp
+ .text.avr-libc.fplib
+                0x00000000000040e0        0xc /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+                0x00000000000040e0                __fp_inf
+ .text.avr-libc.fplib
+                0x00000000000040ec        0x6 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                0x00000000000040ec                __fp_nan
+ .text.avr-libc.fplib
+                0x00000000000040f2        0xe /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                0x00000000000040f2                __fp_pscA
+ .text.avr-libc.fplib
+                0x0000000000004100        0xe /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                0x0000000000004100                __fp_pscB
+ .text.avr-libc.fplib
+                0x000000000000410e       0x22 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_round.o)
+                0x000000000000410e                __fp_round
+ .text.avr-libc.fplib
+                0x0000000000004130       0x44 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                0x0000000000004130                __fp_split3
+                0x0000000000004140                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000000000004174        0xe /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                0x0000000000004174                __fp_zero
+                0x0000000000004176                __fp_szero
+ .text.avr-libc.fplib
+                0x0000000000004182        0x8 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(gesf2.o)
+                0x0000000000004182                __gtsf2
+                0x0000000000004182                __gesf2
+ .text.avr-libc.fplib
+                0x000000000000418a        0x4 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                0x000000000000418a                __mulsf3
+ .text.avr-libc.fplib
+                0x000000000000418e       0xc2 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                0x00000000000041a2                __mulsf3x
+                0x00000000000041a6                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x0000000000004250        0x8 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+                0x0000000000004250                __unordsf2
+ .text.avr-libc
+                0x0000000000004258       0x42 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtostrf.o)
+                0x0000000000004258                dtostrf
+ .text.avr-libc
+                0x000000000000429a       0x42 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(itoa.o)
+                0x000000000000429a                itoa
+ .text.avr-libc
+                0x00000000000042dc      0x2fc /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtoa_prf.o)
+                0x00000000000042dc                dtoa_prf
+ .text.avr-libc
+                0x00000000000045d8      0x1b0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(ftoa_engine.o)
+                0x00000000000045d8                __ftoa_engine
+ .text.avr-libc
+                0x0000000000004788       0x20 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(strrev.o)
+                0x0000000000004788                strrev
+ .text.libgcc.mul
+                0x00000000000047a8        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x00000000000047a8       0x28 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodhi4.o)
+                0x00000000000047a8                __udivmodhi4
+ .text.libgcc   0x00000000000047d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000000047d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000000047d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000000047d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000000047d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodhi4.o)
+                0x00000000000047d0                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000047d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+                0x00000000000047d0                exit
+                0x00000000000047d0                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000047d0        0x4 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000000000047d4                _etext = .
+
+.data           0x0000000000800060      0x170 load address 0x00000000000047d4
+                0x0000000000800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/crtm32.o
+ .data          0x0000000000800060        0x0 ./utils/reboot.o
+ .data          0x0000000000800060        0x0 ./utils/timer.o
+ .data          0x0000000000800060        0x0 ./utils/utils.o
+ .data          0x0000000000800060        0x0 ./settings/backlight.o
+ .data          0x0000000000800060        0x0 ./settings/connection.o
+ .data          0x0000000000800060        0x0 ./settings/outputs.o
+ .data          0x0000000000800060        0x0 ./settings/settings.o
+ .data          0x0000000000800060        0x0 ./settings/time-settings.o
+ .data          0x0000000000800060        0x0 ./net/enc28j60.o
+ .data          0x0000000000800060        0x0 ./net/network.o
+ .data          0x0000000000800060        0x0 ./dev/adc.o
+ .data          0x0000000000800060        0x0 ./dev/buttons.o
+ .data          0x0000000000800060        0x0 ./dev/ds18b20.o
+ .data          0x0000000000800060        0x0 ./dev/eeprom.o
+ .data          0x0000000000800060        0x0 ./dev/hd44780.o
+ .data          0x0000000000800060        0x0 ./dev/relay.o
+ .data          0x0000000000800060        0x0 ./dev/sound.o
+ .data          0x0000000000800060        0x0 ./dev/time.o
+ .data          0x0000000000800060        0x0 ./dev/twi.o
+ .data          0x0000000000800060        0x0 ./dev/usart.o
+ .data          0x0000000000800060        0x0 ./control.o
+ .data          0x0000000000800060        0x0 ./main.o
+ .data          0x0000000000800060        0x0 ./proto.o
+ .data          0x0000000000800060        0x0 ./remote-control.o
+ .data          0x0000000000800060        0x0 ./usp-proto.o
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodqi4.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(divsf3.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(gesf2.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtostrf.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtoa_prf.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(ftoa_engine.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodhi4.o)
+ *(.data*)
+ .data.backlightValue
+                0x0000000000800060        0x1 ./settings/backlight.o
+ .data.currentRes
+                0x0000000000800061        0x1 ./dev/adc.o
+ .data.koziolek
+                0x0000000000800062       0x3c ./dev/sound.o
+                0x0000000000800062                koziolek
+ .data.beeper   0x000000000080009e        0x8 ./dev/sound.o
+                0x000000000080009e                beeper
+ .data.readTemperaturesFlag
+                0x00000000008000a6        0x2 ./main.o
+ .data.myPort   0x00000000008000a8        0x2 ./main.o
+ .data.myIPAddress
+                0x00000000008000aa        0x4 ./main.o
+ *(.rodata)
+ .rodata        0x00000000008000ae       0x40 ./dev/hd44780.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x00000000008000ee       0xe1 ./main.o
+                                         0xe7 (size before relaxing)
+ *(.gnu.linkonce.d*)
+                0x00000000008001d0                . = ALIGN (0x2)
+ *fill*         0x00000000008001cf        0x1 
+                0x00000000008001d0                _edata = .
+                0x00000000008001d0                PROVIDE (__data_end, .)
+
+.bss            0x00000000008001d0      0x145
+                0x00000000008001d0                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00000000008001d0        0x0 ./utils/reboot.o
+ .bss           0x00000000008001d0        0x0 ./utils/timer.o
+ .bss           0x00000000008001d0        0x0 ./utils/utils.o
+ .bss           0x00000000008001d0        0x0 ./settings/backlight.o
+ .bss           0x00000000008001d0        0x0 ./settings/connection.o
+ .bss           0x00000000008001d0        0x0 ./settings/outputs.o
+ .bss           0x00000000008001d0        0x0 ./settings/settings.o
+ .bss           0x00000000008001d0        0x0 ./settings/time-settings.o
+ .bss           0x00000000008001d0        0x0 ./net/enc28j60.o
+ .bss           0x00000000008001d0        0x0 ./net/network.o
+ .bss           0x00000000008001d0        0x0 ./dev/adc.o
+ .bss           0x00000000008001d0        0x0 ./dev/buttons.o
+ .bss           0x00000000008001d0        0x0 ./dev/ds18b20.o
+ .bss           0x00000000008001d0        0x0 ./dev/eeprom.o
+ .bss           0x00000000008001d0        0x0 ./dev/hd44780.o
+ .bss           0x00000000008001d0        0x0 ./dev/relay.o
+ .bss           0x00000000008001d0        0x0 ./dev/sound.o
+ .bss           0x00000000008001d0        0x0 ./dev/time.o
+ .bss           0x00000000008001d0        0x0 ./dev/twi.o
+ .bss           0x00000000008001d0        0x0 ./dev/usart.o
+ .bss           0x00000000008001d0        0x0 ./control.o
+ .bss           0x00000000008001d0        0x0 ./main.o
+ .bss           0x00000000008001d0        0x0 ./proto.o
+ .bss           0x00000000008001d0        0x0 ./remote-control.o
+ .bss           0x00000000008001d0        0x0 ./usp-proto.o
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodqi4.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(divsf3.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(gesf2.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtostrf.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtoa_prf.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(ftoa_engine.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .bss           0x00000000008001d0        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodhi4.o)
+ *(.bss*)
+ .bss.timerTaskDelay
+                0x00000000008001d0        0x2 ./utils/timer.o
+ .bss.timerCounter
+                0x00000000008001d2        0x2 ./utils/timer.o
+                0x00000000008001d2                timerCounter
+ .bss.connectionIPIdx
+                0x00000000008001d4        0x1 ./settings/connection.o
+ .bss.connectionPort
+                0x00000000008001d5        0x1 ./settings/connection.o
+ .bss.connectionIP
+                0x00000000008001d6        0x4 ./settings/connection.o
+ .bss.connectionParam
+                0x00000000008001da        0x1 ./settings/connection.o
+ .bss.currentOutputLuminance
+                0x00000000008001db        0x2 ./settings/outputs.o
+ .bss.currentOutputHysteresis
+                0x00000000008001dd        0x4 ./settings/outputs.o
+ .bss.currentOutputTemperature
+                0x00000000008001e1        0x4 ./settings/outputs.o
+ .bss.paramIdx  0x00000000008001e5        0x1 ./settings/outputs.o
+ .bss.currentOutputTime
+                0x00000000008001e6        0x4 ./settings/outputs.o
+ .bss.currentOutputMode
+                0x00000000008001ea        0x1 ./settings/outputs.o
+ .bss.currentOutput
+                0x00000000008001eb        0x1 ./settings/outputs.o
+ .bss.tmpTimeIdx
+                0x00000000008001ec        0x1 ./settings/time-settings.o
+ .bss.tmpTime   0x00000000008001ed        0x5 ./settings/time-settings.o
+ .bss.NextPacketPtr
+                0x00000000008001f2        0x2 ./net/enc28j60.o
+ .bss.Enc28j60Bank
+                0x00000000008001f4        0x1 ./net/enc28j60.o
+ .bss.port      0x00000000008001f5        0x2 ./net/network.o
+ .bss.ipAddress
+                0x00000000008001f7        0x4 ./net/network.o
+ .bss.macAddress
+                0x00000000008001fb        0x6 ./net/network.o
+ .bss.adcEnabled
+                0x0000000000800201        0x1 ./dev/adc.o
+ .bss.illuminances
+                0x0000000000800202        0x4 ./dev/adc.o
+ .bss.temperatures
+                0x0000000000800206        0x8 ./dev/ds18b20.o
+ .bss.repeat    0x000000000080020e        0x1 ./dev/sound.o
+ .bss.currentMelody
+                0x000000000080020f        0x1 ./dev/sound.o
+ .bss.playing   0x0000000000800210        0x1 ./dev/sound.o
+ .bss.time      0x0000000000800211        0xb ./dev/time.o
+ .bss.states    0x000000000080021c        0x1 ./control.o
+ .bss.outputLuminance
+                0x000000000080021d        0xa ./control.o
+ .bss.outputHysteresis
+                0x0000000000800227       0x14 ./control.o
+ .bss.outputTemperatures
+                0x000000000080023b       0x14 ./control.o
+ .bss.outputTimes
+                0x000000000080024f       0x14 ./control.o
+ .bss.outputModes
+                0x0000000000800263        0x5 ./control.o
+ .bss.clearScreenFlag
+                0x0000000000800268        0x2 ./main.o
+ .bss.screen    0x000000000080026a        0x2 ./main.o
+ .bss.ethBuffer
+                0x000000000080026c       0x64 ./main.o
+ .bss.usbBufferIdx
+                0x00000000008002d0        0x1 ./usp-proto.o
+ .bss.usbBuffer
+                0x00000000008002d1       0x32 ./usp-proto.o
+ *(COMMON)
+ COMMON         0x0000000000800303        0x2 ./utils/timer.o
+                0x0000000000800303                timerTask
+ COMMON         0x0000000000800305       0x10 ./dev/ds18b20.o
+                0x0000000000800305                ROM
+                0x0000000000800315                PROVIDE (__bss_end, .)
+                0x00000000000047d4                __data_load_start = LOADADDR (.data)
+                0x0000000000004944                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800315        0x0
+                0x0000000000800315                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0000000000800315                PROVIDE (__noinit_end, .)
+                0x0000000000800315                _end = .
+                0x0000000000800315                PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x0000000000000000     0x49a4
+ *(.stab)
+ .stab          0x0000000000000000      0x6cc /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/crtm32.o
+ .stab          0x00000000000006cc      0x108 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+                                        0x114 (size before relaxing)
+ .stab          0x00000000000007d4       0xe4 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodqi4.o)
+                                         0xf0 (size before relaxing)
+ .stab          0x00000000000008b8      0x228 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+                                        0x234 (size before relaxing)
+ .stab          0x0000000000000ae0      0x144 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+                                        0x150 (size before relaxing)
+ .stab          0x0000000000000c24       0x6c /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+                                         0x78 (size before relaxing)
+ .stab          0x0000000000000c90       0x6c /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+                                         0x78 (size before relaxing)
+ .stab          0x0000000000000cfc       0xcc /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+                                         0xd8 (size before relaxing)
+ .stab          0x0000000000000dc8       0xd8 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+                                         0xe4 (size before relaxing)
+ .stab          0x0000000000000ea0       0xb4 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+                                         0xc0 (size before relaxing)
+ .stab          0x0000000000000f54       0x78 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                                         0x84 (size before relaxing)
+ .stab          0x0000000000000fcc      0x4bc /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+                                        0x4c8 (size before relaxing)
+ .stab          0x0000000000001488       0x90 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                                         0x9c (size before relaxing)
+ .stab          0x0000000000001518       0x48 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(divsf3.o)
+                                         0x54 (size before relaxing)
+ .stab          0x0000000000001560      0x510 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                        0x51c (size before relaxing)
+ .stab          0x0000000000001a70       0x6c /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                         0x78 (size before relaxing)
+ .stab          0x0000000000001adc      0x240 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                        0x24c (size before relaxing)
+ .stab          0x0000000000001d1c      0x318 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                        0x324 (size before relaxing)
+ .stab          0x0000000000002034      0x1e0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                                        0x1ec (size before relaxing)
+ .stab          0x0000000000002214       0x78 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+                                         0x84 (size before relaxing)
+ .stab          0x000000000000228c       0x54 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                                         0x60 (size before relaxing)
+ .stab          0x00000000000022e0       0x84 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                                         0x90 (size before relaxing)
+ .stab          0x0000000000002364       0x84 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                                         0x90 (size before relaxing)
+ .stab          0x00000000000023e8       0xfc /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_round.o)
+                                        0x108 (size before relaxing)
+ .stab          0x00000000000024e4      0x1d4 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                        0x1e0 (size before relaxing)
+ .stab          0x00000000000026b8       0x90 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                         0x9c (size before relaxing)
+ .stab          0x0000000000002748       0x6c /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(gesf2.o)
+                                         0x78 (size before relaxing)
+ .stab          0x00000000000027b4       0x48 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                         0x54 (size before relaxing)
+ .stab          0x00000000000027fc      0x4d4 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                        0x4e0 (size before relaxing)
+ .stab          0x0000000000002cd0       0x60 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+                                         0x6c (size before relaxing)
+ .stab          0x0000000000002d30      0x588 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtostrf.o)
+                                        0x594 (size before relaxing)
+ .stab          0x00000000000032b8      0x1b0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(itoa.o)
+                                        0x1bc (size before relaxing)
+ .stab          0x0000000000003468      0x8d0 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtoa_prf.o)
+                                        0xaa4 (size before relaxing)
+ .stab          0x0000000000003d38      0xa38 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(ftoa_engine.o)
+                                        0xa44 (size before relaxing)
+ .stab          0x0000000000004770       0xd8 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(strrev.o)
+                                         0xe4 (size before relaxing)
+ .stab          0x0000000000004848      0x15c /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodhi4.o)
+                                        0x168 (size before relaxing)
+
+.stabstr        0x0000000000000000     0x144b
+ *(.stabstr)
+ .stabstr       0x0000000000000000     0x144b /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/crtm32.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x42
+ *(.comment)
+ .comment       0x0000000000000000       0x21 ./utils/reboot.o
+                                         0x22 (size before relaxing)
+ .comment       0x0000000000000000       0x22 ./utils/timer.o
+ .comment       0x0000000000000000       0x22 ./utils/utils.o
+ .comment       0x0000000000000000       0x22 ./settings/backlight.o
+ .comment       0x0000000000000000       0x22 ./settings/connection.o
+ .comment       0x0000000000000000       0x22 ./settings/outputs.o
+ .comment       0x0000000000000000       0x22 ./settings/settings.o
+ .comment       0x0000000000000000       0x22 ./settings/time-settings.o
+ .comment       0x0000000000000000       0x22 ./net/enc28j60.o
+ .comment       0x0000000000000000       0x22 ./net/network.o
+ .comment       0x0000000000000000       0x22 ./dev/adc.o
+ .comment       0x0000000000000000       0x22 ./dev/buttons.o
+ .comment       0x0000000000000000       0x22 ./dev/ds18b20.o
+ .comment       0x0000000000000000       0x22 ./dev/eeprom.o
+ .comment       0x0000000000000000       0x22 ./dev/hd44780.o
+ .comment       0x0000000000000000       0x22 ./dev/relay.o
+ .comment       0x0000000000000000       0x22 ./dev/sound.o
+ .comment       0x0000000000000000       0x22 ./dev/time.o
+ .comment       0x0000000000000000       0x22 ./dev/twi.o
+ .comment       0x0000000000000000       0x22 ./dev/usart.o
+ .comment       0x0000000000000000       0x22 ./control.o
+ .comment       0x0000000000000000       0x22 ./main.o
+ .comment       0x0000000000000000       0x22 ./proto.o
+ .comment       0x0000000000000000       0x22 ./remote-control.o
+ .comment       0x0000000000000000       0x22 ./usp-proto.o
+ .comment       0x0000000000000021       0x21 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtostrf.o)
+                                         0x22 (size before relaxing)
+ .comment       0x0000000000000000       0x22 /usr/lib/gcc/avr/4.8.2/../../../../avr/lib/avr5/libc.a(dtoa_prf.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Aquarium.elf elf32-avr)
+LOAD linker stubs

@@ -1,0 +1,8 @@
+#!/bin/sh
+
+service aqua-udp-proxy status
+if [ $? -eq 0 ]; then
+	service aqua-udp-proxy stop
+fi
+
+update-rc.d aqua-udp-proxy remove

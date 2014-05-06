@@ -1,0 +1,32 @@
+#!/bin/sh
+
+LOG_DIRECTORY=/var/log/aqua
+
+echo "Checking if user 'aqua' exists..."
+cat /etc/passwd | grep aqua > /dev/null
+if [ $? -ne 0 ];then
+	echo "User 'aqua' not exists. Creating new user 'aqua'..."
+	useradd -M -s /sbin/nologin -U aqua
+else
+	echo "User 'aqua' exists. Continuing..."
+fi
+
+echo "Checking if directory: ${LOG_DIRECTORY} exists..."
+if [ ! -d ${LOG_DIRECTORY} ]; then
+	echo "Directory: ${LOG_DIRECTORY} not exists. Creating..."
+	mkdir -p ${LOG_DIRECTORY}
+	touch ${LOG_DIRECTORY}/aqua.log
+	chown -R aqua:aqua ${LOG_DIRECTORY}
+	chmod -R 775 ${LOG_DIRECTORY}
+	chmod 664 ${LOG_DIRECTORY}/aqua.log
+else
+	echo "Directory ${LOG_DIREcTORY} already exists. Nothing to do."
+fi
+
+echo "Adding aqua-udp-proxy service to init configuration"
+update-rc.d aqua-udp-proxy defaults
+if [ $? -eq 0 ];then
+	echo "aqua-udp-proxy successfully installed"
+else
+	echo "Problem during installation of aqua-udp-proxy service"
+fi

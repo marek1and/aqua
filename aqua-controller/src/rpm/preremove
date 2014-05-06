@@ -1,0 +1,8 @@
+#!/bin/sh
+
+/usr/bin/systemctl status aqua-udp-proxy
+if [ $? -eq 0 ]; then
+	/usr/bin/systemctl stop aqua-udp-proxy
+fi
+
+/usr/bin/systemctl disable aqua-udp-proxy

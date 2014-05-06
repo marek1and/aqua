@@ -1,0 +1,16 @@
+JAVA_HOME=/usr/java/latest
+CLASSPATH=\
+/usr/local/apps/aqua/lib/commons-daemon-1.0.15.jar:\
+/usr/local/apps/aqua/lib/aqua-connect-1.0.jar:\
+/usr/local/apps/aqua/lib/jssc-2.6.0.jar:\
+/usr/local/apps/aqua/lib/slf4j-log4j12-1.7.5.jar:\
+/usr/local/apps/aqua/lib/args4j-2.0.26.jar:\
+/usr/local/apps/aqua/lib/log4j-1.2.17.jar:\
+/usr/local/apps/aqua/lib/slf4j-api-1.7.5.jar:\
+/usr/local/apps/aqua/aqua-controller.jar
+
+USER=aqua
+PIDFILE=/var/run/aqua.pid
+LOGFILE=/var/log/aqua/aqua.log
+CLASS=pl.marand.aqua.AquaUDPProxyServer
+ARGS="-dev /dev/ttyUSB0"

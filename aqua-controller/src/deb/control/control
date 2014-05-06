@@ -1,0 +1,8 @@
+Package: aqua-udp-proxy
+Version: 1.0
+Section: misc
+Priority: low
+Architecture: all
+Distribution: development
+Maintainer: Marek Andrzejewski - marek1and@gmail.com
+Description: Aqua UDP Proxy Server to control Aqua Device

@@ -1,0 +1,12 @@
+[Unit]
+Description=Aqua UDP Proxy Server to control Aqua Device
+After=network.target
+
+[Service]
+Type=forking
+EnvironmentFile=/etc/sysconfig/aqua-udp-proxy
+ExecStart=/usr/bin/jsvc -home $JAVA_HOME -cp $CLASSPATH -user $USER -outfile $LOGFILE -errfile $LOGFILE -pidfile $PIDFILE $CLASS $ARGS 
+ExecStop=/usr/bin/jsvc -home $JAVA_HOME -cp $CLASSPATH -user $USER -outfile $LOGFILE -errfile $LOGFILE -pidfile $PIDFILE -stop $CLASS $ARGS
+
+[Install]
+WantedBy=network.target
