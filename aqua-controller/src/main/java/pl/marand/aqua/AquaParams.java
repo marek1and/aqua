@@ -1,7 +1,6 @@
 package pl.marand.aqua;
 
 import java.io.File;
-import java.io.IOException;
 import java.net.InetAddress;
 import java.util.Date;
 
@@ -265,13 +264,6 @@ public class AquaParams {
 			}
 		}
 		
-		if(ip != null) {
-			try {
-				validation = ip.isReachable(5);
-			} catch(IOException ex) {
-				System.out.printf("Host with IP: %s is not reachable\n", ip.getHostAddress());
-			}
-		}
 		return validation;
 	}
 	

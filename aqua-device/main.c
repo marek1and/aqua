@@ -56,7 +56,7 @@
 static uint8_t ethBuffer[BUFFER_SIZE];
 
 //static uint8_t  myMACAddress[6] = {'0','A','Q','U','A','0'};
-static uint8_t  myIPAddress[4]  = {192,168,1,10};
+static uint8_t  myIPAddress[4]  = {192,168,1,254};
 static uint16_t myPort = 10;
 
 static int screen = 0;
