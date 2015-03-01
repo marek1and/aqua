@@ -1,4 +1,4 @@
-JAVA_HOME=/usr/java/latest
+JAVA_HOME=/opt/java/latest
 CLASSPATH=\
 /usr/local/apps/aqua/lib/commons-daemon-1.0.15.jar:\
 /usr/local/apps/aqua/lib/aqua-connect-1.0.jar:\
@@ -13,4 +13,4 @@ USER=aqua
 PIDFILE=/var/run/aqua.pid
 LOGFILE=/var/log/aqua/aqua.log
 CLASS=pl.marand.aqua.AquaUDPProxyServer
-ARGS="-dev /dev/ttyUSB0"
+ARGS="-dev /dev/rfcomm0"

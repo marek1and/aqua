@@ -16,16 +16,17 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>2.5.1</version>
+				<version>3.2</version>
 				<configuration>
-					<source>1.7</source>
-					<target>1.7</target>
+					<source>1.8</source>
+					<target>1.8</target>
 				</configuration>
 			</plugin>
 
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-dependency-plugin</artifactId>
+				<version>2.10</version>
 				<executions>
 					<execution>
 						<id>copy-dependencies</id>
@@ -46,7 +47,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-jar-plugin</artifactId>
-				<version>2.4</version>
+				<version>2.5</version>
 				<configuration>
 					<archive>
 						<manifest>
@@ -60,7 +61,9 @@
 			</plugin>
 
 			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-assembly-plugin</artifactId>
+				<version>2.5.3</version>
 				<configuration>
 					<archive>
 						<manifest>
@@ -85,7 +88,7 @@
 			<plugin>
 				<artifactId>jdeb</artifactId>
 				<groupId>org.vafer</groupId>
-				<version>1.0.1</version>
+				<version>1.4</version>
 				<executions>
 					<execution>
 						<phase>package</phase>
@@ -138,7 +141,7 @@
 			<plugin>
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>rpm-maven-plugin</artifactId>
-				<version>2.0.1</version>
+				<version>2.1.2</version>
 				<configuration>
 				    <name>${project.build.finalName}</name>
 				    <version>1.0</version>
@@ -158,6 +161,9 @@
 					    <scriptFile>${basedir}/src/rpm/postremove</scriptFile>
 					    <fileEncoding>utf-8</fileEncoding>
 					</postremoveScriptlet>
+					<requires>
+						<require>apache-commons-daemon-jsvc &gt; 1.0</require>
+					</requires>
 			
 					<mappings>
 						<mapping>
